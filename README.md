@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 17 
+#### HELLO
+- JDK 25 
 - Maven 3.9 
 - MySQL 8
 
